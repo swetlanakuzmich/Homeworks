@@ -1,0 +1,53 @@
+h1 {
+color: black;
+font-weight: bold;
+margin-left: 500px;
+margin-right: 500px;
+font-family: arial;
+}
+img {
+margin-left: 700px;
+margin-right: 600px;
+}
+p {
+margin-left: 500px;
+margin-right: 500px;
+font-family: arial;
+}
+
+hr {
+margin-left: 500px;
+margin-right:600px;
+}
+a {
+color: blue;
+font-style: italic;
+text-decoration: underline;
+margin-left: 550px;
+margin-right:600px;
+}
+h2{
+margin-left: 500px;
+margin-right:600px;
+}
+
+
+ul {
+margin-left: 500px;
+margin-right:600px;
+font-size: 15px;
+}
+h2 p {
+margin-left: 700px;
+margin-right:600px;
+font-size: 15px;
+}
+.contact {
+margin-left: 50px;
+margin-right:700px;
+font-size: 15px;
+}
+div {
+font-family: sans-serif;
+
+}
